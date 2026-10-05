@@ -1,0 +1,6 @@
+{
+  "name": "LittleSeed Plants",
+  "description": "Katalog tanaman hias dengan fitur rekomendasi personal Plant Finder, multi-filter, dan panduan perawatan digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
